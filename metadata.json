@@ -1,0 +1,8 @@
+{
+  "name": "Zypher Agent Console",
+  "description": "Professional development console for Zypher Agents, featuring reactive reasoning loops and MCP tool integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
